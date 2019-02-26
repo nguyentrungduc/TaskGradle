@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="space_0">0.00dp</dimen>
+	<dimen name="space_0_25">2.67dp</dimen>
+	<dimen name="space_0_5">5.33dp</dimen>
+	<dimen name="space_1">10.67dp</dimen>
+	<dimen name="space_12">128.00dp</dimen>
+	<dimen name="space_14">149.33dp</dimen>
+	<dimen name="space_16">170.67dp</dimen>
+	<dimen name="space_2">21.33dp</dimen>
+	<dimen name="space_24">256.00dp</dimen>
+	<dimen name="space_32">341.33dp</dimen>
+	<dimen name="space_4">42.67dp</dimen>
+	<dimen name="space_40">426.67dp</dimen>
+	<dimen name="space_48">512.00dp</dimen>
+	<dimen name="space_50">533.33dp</dimen>
+	<dimen name="space_56">597.33dp</dimen>
+	<dimen name="space_64">682.67dp</dimen>
+	<dimen name="space_72">768.00dp</dimen>
+	<dimen name="space_8">85.33dp</dimen>
+	<dimen name="space_80">853.33dp</dimen>
+</resources>
